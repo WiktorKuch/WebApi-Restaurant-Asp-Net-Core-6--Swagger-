@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Web-Api-Restaurant-AspNetCore6" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Wiktro\ Kucharek\\Desktop\\Projekty\ c\#\\Web-RestaurantApi\ ASP\.NET\ CORE\ 5\\RestaurantApi\\RestaurantApi\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

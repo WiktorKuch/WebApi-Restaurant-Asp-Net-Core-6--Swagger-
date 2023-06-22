@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "92WK0xPhuCIcdSx9e/WXLi6AxyHsGlM5nkGWluz4gPM=",
+  "Source": "RestaurantAPI",
+  "BasePath": "_content/RestaurantAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RestaurantAPI\\wwwroot",
+      "Source": "RestaurantAPI",
+      "ContentRoot": "C:\\Users\\Wiktro Kucharek\\Desktop\\Projekty c#\\Web-RestaurantApi ASP.NET CORE 5\\RestaurantApi\\RestaurantApi\\wwwroot\\",
+      "BasePath": "_content/RestaurantAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Wiktro Kucharek\\Desktop\\Projekty c#\\Web-RestaurantApi ASP.NET CORE 5\\RestaurantApi\\RestaurantApi\\wwwroot\\sample-file.txt",
+      "SourceId": "RestaurantAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Wiktro Kucharek\\Desktop\\Projekty c#\\Web-RestaurantApi ASP.NET CORE 5\\RestaurantApi\\RestaurantApi\\wwwroot\\",
+      "BasePath": "_content/RestaurantAPI",
+      "RelativePath": "sample-file.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sample-file.txt"
+    }
+  ]
+}
